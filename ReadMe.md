@@ -112,7 +112,7 @@
     - **[PM2](http://pm2.keymetrics.io/)**
     - [Commander.js](https://github.com/tj/commander.js/)
     - [Passport](http://www.passportjs.org/)
-    - [Nodemailer](https://nodemailer.com/about/)
+    - **[Nodemailer](https://nodemailer.com/about/)**
     - [Marked](https://marked.js.org/#/README.md#README.md)
     - [JSHint](https://github.com/jshint/jshint)
 
@@ -153,3 +153,5 @@
 ## Եզրակացություն
 
 Եթե կարծում եք, որ ուսումնական պլանը կարող է բարելավվել, բացեք pull request կամ ավելացրեք ցանկացած issues: Կարող եք repo-ն ավելացնել Ձեր «աստղիկ»֊ներում հետագա թարմացումներին տեղեկացված լինելու համար
+
+Գաղափարը -> [այստեղից](https://github.com/aliyr/Nodejs-Developer-Roadmap), շնորհակալություն [Alious](https://github.com/aliyr)
