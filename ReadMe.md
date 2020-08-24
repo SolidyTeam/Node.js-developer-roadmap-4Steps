@@ -12,7 +12,7 @@
 
 ## Ուսուցման պլան
 
-![Ուսուցման պլան](./Node.js-developer-roadmap-4Steps.png)
+![Ուսուցման պլան](./Node.js-developer-roadmap-4Steps.pdf)
 
 ## Ռեսուրսներ
 
