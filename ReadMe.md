@@ -7,7 +7,7 @@
 
 ## Ուղղորդում
 
-> Գծագրի նպատակը՝ տալ գաղափար ուղիների մասին։ Եթե ինչ֊որ մաս արդեն սովորել եք, գծագիրը ցույց կտա, թե ինչ պետք է սովորել հաջորդ քայլում՝ այն ինչը ներկայումս նորաձև է և թրենդի մեջ է։
+> Գծագրի նպատակը՝ տալ գաղափար ուղիների մասին։ Եթե ինչ-որ մաս արդեն սովորել եք, գծագիրը ցույց կտա, թե ինչ պետք է սովորել հաջորդ քայլում՝ այն ինչը ներկայումս նորաձև է և թրենդի մեջ է։
 
 
 ## Ուսուցման պլան
@@ -19,19 +19,30 @@
 1. Նախադրյալներ
 
    - [JavaScript](https://www.w3schools.com/js/)
+     - [Eloquent JavaScript: A Modern Introduction to Programming](https://eloquentjavascript.net/)
+     - [You Don't Know JS Yet (book series)](https://github.com/getify/You-Dont-Know-JS)
    - [NPM](https://docs.npmjs.com/)
    - [Node.js](https://nodejs.org/en/docs/)
+     - [Learning Node.js Development](https://www.amazon.com/Learning-Node-js-Development-fundamentals-applications-ebook/dp/B077XFXWH9/ref=sr_1_20?dchild=1&keywords=nodejs&qid=1598782765&sr=8-20)
+     - [Node.js Notes for Professionals](https://books.goalkicker.com/NodeJSBook/)   
    - ES6/ES7
 
 2. Ընդհանուր ծրագրավորման հմտություններ
 
    - Սովորեք GIT, կառուցեք Ձեր repo-ն GiHub-ում, կիսվեք կոդով այլ ծրագրավորողների հետ
-   - HTTP(S) պրատակոլի և հարցման մեթոդների իմացություն (GET, POST, PUT, PATCH, DELETE, OPTIONS)
+     - [Pro Git](https://git-scm.com/book/en/v2)
+   - HTTP(S) պրոտոկոլի և հարցման մեթոդների իմացություն (GET, POST, PUT, PATCH, DELETE, OPTIONS)
    - Ուսումնասիրեք ալգորիթմների և տվյալների կառուցվածքների մասին գրքեր
+     - [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/ref=sr_1_1?dchild=1&qid=1598781619&refinements=p_lbr_one_browse-bin%3AThomas+H.+Cormen&s=books&sr=1-1)
+     - [Algorithms Unlocked](https://www.amazon.com/Algorithms-Unlocked-Press-Thomas-Cormen/dp/0262518805)
+     - [The Art of Computer Programming](https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043/ref=sr_1_1?crid=6B0FFK7IA5DV&dchild=1&keywords=knuth+algorithms&qid=1598781938&s=books&sprefix=knuth%2Cstripbooks-intl-ship%2C267&sr=1-1)
+      
 
 3. Web Frameworks
 
    1. **[Express.js](https://expressjs.com/)**
+      - [Beginning Node.js, Express & MongoDB Development](https://www.amazon.com/Beginning-Node-js-Express-MongoDB-Development/dp/1078379556/ref=sr_1_5?crid=1WG2TMKRHD4J9&dchild=1&keywords=express.js&qid=1598783438&s=books&sprefix=express%2Cstripbooks-intl-ship%2C303&sr=1-5)
+      - [Web Development with Node and Express: Leveraging the JavaScript Stack](https://www.amazon.com/Web-Development-Node-Express-Leveraging/dp/1492053511/ref=sr_1_1?crid=1WG2TMKRHD4J9&dchild=1&keywords=express.js&qid=1598783686&s=books&sprefix=express%2Cstripbooks-intl-ship%2C303&sr=1-1)
    2. [Adonis.js](https://adonisjs.com/)
    3. [Meteor.js](https://www.meteor.com/)
    4. [Nest.js](https://nestjs.com/)
@@ -152,6 +163,6 @@
 
 ## Եզրակացություն
 
-Եթե կարծում եք, որ ուսումնական պլանը կարող է բարելավվել, բացեք pull request կամ ավելացրեք ցանկացած issues: Կարող եք repo-ն ավելացնել Ձեր «աստղիկ»֊ներում հետագա թարմացումներին տեղեկացված լինելու համար
+Եթե կարծում եք, որ ուսումնական պլանը կարող է բարելավվել, բացեք pull request կամ ավելացրեք ցանկացած issues: Կարող եք repo-ն ավելացնել Ձեր «աստղիկ»-ներում հետագա թարմացումներին տեղեկացված լինելու համար
 
 Գաղափարը -> [այստեղից](https://github.com/aliyr/Nodejs-Developer-Roadmap), շնորհակալություն [Alious](https://github.com/aliyr)
